@@ -48,7 +48,6 @@ namespace Solid3
             Figure rect = new Square(5);
 
             Console.WriteLine(rect.GetArea());
-            //Відповідь 100? Що не так???
             Console.ReadKey();
         }
     }
